@@ -48,7 +48,7 @@
   <project path="system/core" name="android_system_core" groups="pdk" remote="pure" revision="n" />
   <project path="system/extras" name="android_system_extras" groups="pdk" remote="pure" revision="n" />
   <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="pure" revision="n" />
-  <project path="vendor/custom" name="android_vendor_custom" remote="pure" revision="n" />
+  <project path="vendor/custom" name="enzok/android_vendor_custom" remote="github" revision="n" />
 
   <!-- Kernel Source -->
   <project path="kernel/huawei/angler" name="android_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="pure" revision="n" />
