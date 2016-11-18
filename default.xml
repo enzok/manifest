@@ -13,7 +13,7 @@
   <default revision="refs/tags/android-7.0.0_r19"
            remote="aosp"
            sync-c="true"
-           sync-j="4" />
+           sync-j="16" />
 
   <!-- Pure Repo's -->
   <project path="build" name="android_build" groups="pdk" remote="enzok" revision="n" >
