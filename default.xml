@@ -53,7 +53,7 @@
   <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="pure" revision="android-7.1" />
   <project path="vendor/pixelgapps" name="android_vendor_pixelgapps" remote="gitlab" revision="android-7.1" />
   <project path="vendor/prebuilt" name="android_vendor_prebuilt" remote="enzok" revision="android-7.1" />
-  <project path="vendor/pure" name="android_vendor_pure" remote="pure" revision="android-7.1" />
+  <project path="vendor/pure" name="android_vendor_pure" remote="enzo" revision="android-7.1" />
 
   <!-- Kernel Source -->
   <project path="kernel/moto/shamu" name="android_kernel_moto_shamu" groups="device,shamu,broadcom_pdk" remote="enzok" revision="android-7.1" />
