@@ -12,7 +12,7 @@
            fetch="https://gitlab.com/PureNexus/" /> 
   <remote  name="enzok"
            fetch="https://github.com/enzok/" />
-  <default revision="refs/tags/android-7.1.1_r21"
+  <default revision="refs/tags/android-7.1.1_r26"
            remote="aosp"
            sync-c="true"
            sync-j="16" />
