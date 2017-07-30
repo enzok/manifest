@@ -27,7 +27,7 @@
   <project path="device/moto/shamu" name="android_device_moto_shamu" groups="device,shamu,broadcom_pdk,generic_fs,pdk" remote="enzok" revision="n-mr2" />
   <project path="external/busybox" name="android_external_busybox" remote="pure" revision="n-mr2" />
   <project path="frameworks/av" name="android_frameworks_av" groups="pdk" remote="pure" revision="n-mr2" />
-  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="pure" revision="n-mr2" />
+  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="enzok" revision="n-mr2" />
   <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="pure" revision="n-mr2" />
   <project path="frameworks/support" name="android_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="pure" revision="n-mr2" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="pure" revision="n-mr2" />
@@ -40,7 +40,7 @@
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="pure" revision="n-mr2" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="pure" revision="n-mr2" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" remote="pure" revision="n-mr2" />
-  <project path="packages/apps/PureSettings" name="android_packages_apps_PureSettings" remote="pure" revision="n-mr2" />
+  <project path="packages/apps/PureSettings" name="android_packages_apps_PureSettings" remote="enzok" revision="n-mr2" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="pure" revision="n-mr2" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="pure" revision="n-mr2" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="pure" revision="n-mr2" />
